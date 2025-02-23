@@ -1,1 +1,24 @@
-{ "window.zoomLevel": 1.5 }
+// { "window.zoomLevel": 1.5 
+
+
+//     "workbench.colorCustomizations": {
+//         "tab.activeBackground": "#1E1E2E",  
+//         "tab.activeForeground": "#C9D1D9",  // Soft white text for contrast
+//         "tab.activeBorder": "#7F5AF0",      // Neon purple border for a cool highlight
+//         "tab.activeBorderTop": "#7F5AF0"    // Matches the border for extra visibility
+//     }
+
+
+// }
+
+
+{
+    "window.zoomLevel": 1.5,
+
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#1E1E2E",  // Dark purple-blue for a modern look
+        "tab.activeForeground": "#C9D1D9",  
+        "tab.activeBorder": "#7F5AF0",      
+        "tab.activeBorderTop": "#7F5AF0"    
+    }
+}
